@@ -38,9 +38,13 @@ Where:
 ```bash
 g++ trapezoidal.cpp -o trapezoidal
 ./trapezoidal
-Example Output:
-
+**Example Output:**
+```text
 Enter number of subintervals (n): 1000
 Trapezoidal Approximation = 0.7468241328
 High Precision Result    = 0.7468241328
 Absolute Error           = 0.0000000000
+
+
+
+

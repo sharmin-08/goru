@@ -40,16 +40,12 @@ Where:
 - **Confirms correctness** of the trapezoidal method in practice.
 
 ---
+
 ## 6. How to Run
 
 1. **Compile:**
 ```bash
 g++ trapezoidal.cpp -o trapezoidal
-Run:
-
-bash
-Copy code
-./trapezoidal
 
 
 

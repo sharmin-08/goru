@@ -5,3 +5,9 @@ In this project, we used the **Trapezoidal Rule** to approximate the integral of
 It also compares the result with a high-precision value using the built-in `erf()` function from `<cmath>`.
 
 ---
+## 2. Objectives
+- Apply numerical integration using the trapezoidal rule.  
+- Verify the result against a high-precision library value.  
+- Analyze how the number of subintervals (`n`) affects accuracy.
+
+---

@@ -33,24 +33,14 @@ Where:
 ---
 
 ## 6. How to Run
-1. Compile:
+
+1. **Compile:**
 ```bash
 g++ trapezoidal.cpp -o trapezoidal
-Run:
 ./trapezoidal
+Example Output:
 
-Example:
 Enter number of subintervals (n): 1000
 Trapezoidal Approximation = 0.7468241328
 High Precision Result    = 0.7468241328
 Absolute Error           = 0.0000000000
-
----
-
-## 7. Results & Conclusion
-- Provides approximate integral using the **trapezoidal rule**.  
-- Shows **high-precision reference value** and **absolute error**.  
-- Demonstrates that increasing `n` improves **accuracy**.  
-- Confirms **correctness** of the trapezoidal method in practice.
-
----

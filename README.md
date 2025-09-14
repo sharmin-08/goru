@@ -23,7 +23,7 @@ Where:
 - `n` = number of subintervals (user input)
 
 ---
-## 5. Code Features
+## 5. Code Description
 - Written in **C++**, modular and well-commented.  
 - `f(x)` function calculates e^(-x^2).  
 - `trapezoidal(a, b, n)` applies the trapezoidal rule.  
@@ -31,3 +31,16 @@ Where:
 - Automatically compares with high-precision reference value.
 
 ---
+
+## 6. How to Run
+1. Compile:
+```bash
+g++ trapezoidal.cpp -o trapezoidal
+Run:
+./trapezoidal
+
+Example:
+Enter number of subintervals (n): 1000
+Trapezoidal Approximation = 0.7468241328
+High Precision Result    = 0.7468241328
+Absolute Error           = 0.0000000000

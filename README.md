@@ -46,8 +46,11 @@ High Precision Result    = 0.7468241328
 Absolute Error           = 0.0000000000
 
 ---
+
 ## 7. Results & Conclusion
-- Provides approximate integral using trapezoidal rule.  
-- Shows high-precision reference value and absolute error.  
-- Demonstrates that increasing `n` improves accuracy.  
-- Confirms correctness of the trapezoidal method in practice
+- Provides approximate integral using the **trapezoidal rule**.  
+- Shows **high-precision reference value** and **absolute error**.  
+- Demonstrates that increasing `n` improves **accuracy**.  
+- Confirms **correctness** of the trapezoidal method in practice.
+
+---

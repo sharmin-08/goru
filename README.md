@@ -23,3 +23,11 @@ Where:
 - `n` = number of subintervals (user input)
 
 ---
+## 5. Code Features
+- Written in **C++**, modular and well-commented.  
+- `f(x)` function calculates e^(-x^2).  
+- `trapezoidal(a, b, n)` applies the trapezoidal rule.  
+- User can input `n` to control accuracy.  
+- Automatically compares with high-precision reference value.
+
+---

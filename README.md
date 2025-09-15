@@ -31,16 +31,6 @@ Where:
 - Automatically compares with high-precision reference value.
 
 ---
-
-## 7. Results & Conclusion
-
-- **Provides approximate integral** using the trapezoidal rule.  
-- **Shows high-precision reference value** and **absolute error**.  
-- **Demonstrates that increasing `n` improves accuracy.**  
-- **Confirms correctness** of the trapezoidal method in practice.
-
----
-
 ## 6. How to Run
 
 1. **Compile:**
@@ -48,6 +38,14 @@ Where:
 g++ trapezoidal.cpp -o trapezoidal
 
 
+---
+
+- **Provides approximate integral** using the trapezoidal rule.  
+- **Shows high-precision reference value** and **absolute error**.  
+- **Demonstrates that increasing `n` improves accuracy.**  
+- **Confirms correctness** of the trapezoidal method in practice.
+
+---
 
 
 
